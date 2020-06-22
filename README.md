@@ -1,6 +1,9 @@
 # flutter_Covid_dashboard_India
 
-A new Flutter project.
+A Flutter UI for an apo that helps you keep track of the covid 19 statistics in india. 
+
+# How it Looks
+<img src = "images/Capture.PNG">
 
 ## Getting Started
 
