@@ -27,7 +27,7 @@ class _StatPageState extends State<StatPage> {
                   color: Colors.blueGrey[700],
                   child: Column(
                     children: <Widget>[
-                      SizedBox(height: screenHeight * 0.155),
+                      SizedBox(height: screenHeight * 0.135),
                     ],
                   ),
                 ),
