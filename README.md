@@ -3,7 +3,7 @@
 A Flutter UI for an apo that helps you keep track of the covid 19 statistics in india. 
 
 # How it Looks
-<img src = "images/Capture.PNG">
+<img src = "images/Capture.PNG" width = 200>
 
 ## Getting Started
 
